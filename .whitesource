@@ -3,7 +3,7 @@
     "configMode": "AUTO",
     "projectToken": "6389aa27680b46d29e3b38342f317ae1e9697b67cf0e45baba5fa6c607cc5fe5",
     "baseBranches": [
-      "master", "main", "test"
+      "master", "main"
     ]
   },
   "checkRunSettings": {
